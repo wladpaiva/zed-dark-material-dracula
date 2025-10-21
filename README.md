@@ -1,6 +1,7 @@
 # Dark Material Dracula for Zed
 
 A dark theme for the [Zed editor](https://zed.dev/), based on the popular [Dark Material Dracula theme for VS Code](https://github.com/caumeira/dark-material-dracula).
+<img width="1624" height="1056" alt="Screenshot 2025-10-20 at 22 27 59" src="https://github.com/user-attachments/assets/4edcf8ba-62ef-4660-970f-4f7c1dab78da" />
 
 ## Installation
 
