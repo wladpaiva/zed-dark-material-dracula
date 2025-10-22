@@ -1,0 +1,7 @@
+id = "dark-material-dracula"
+name = "Dark Material Dracula"
+version = "0.0.1"
+schema_version = 1
+authors = ["Wlad Paiva"]
+description = "A dark theme combining Material and Dracula colors."
+repository = "https://github.com/wladpaiva/zed-dark-material-dracula"
